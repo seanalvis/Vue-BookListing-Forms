@@ -15,6 +15,7 @@
             <input id="borrowed" type="radio" value="borrowed" v-model="bookData.ownership">
         </label>
         <label for="bought">
+            Bought
             <input id="bought" type="radio" value="bought" v-model="bookData.ownership">
         </label>        
     </div>
